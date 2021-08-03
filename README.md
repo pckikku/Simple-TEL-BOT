@@ -18,5 +18,4 @@ run repository
 
 any simple doudt
 messege me 
-# +919061161567
-# (only in telegram)
+https://t.me/kikkupc
